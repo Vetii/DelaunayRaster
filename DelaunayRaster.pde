@@ -160,9 +160,6 @@ void keyPressed() {
     cubism(16, 0.02);
     loop();
     break;
-  case 'b': 
-    stroke(0); 
-    break;
   case 'r': 
     recording = !recording; 
     break;
