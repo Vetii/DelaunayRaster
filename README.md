@@ -27,7 +27,7 @@ Rendering is done using Processing, the Delaunay triangulation is done with the 
 
 For each triangle of the motif, the centroid of the triangle is calculated. Afterwards, the triangle takes the color of the pixel in the source image which has the same coordinates as the centroid.
 
-![a triangle centroid](/home/vetii/Scripts/Processing/DelaunayRaster/images/Triangle.Centroid.svg.png)
+![a triangle centroid](images/Triangle.Centroid.svg.png)
 
 ### Randomly adding points
 
